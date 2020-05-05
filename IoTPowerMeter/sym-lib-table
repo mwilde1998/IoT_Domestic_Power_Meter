@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name IoTPowerMeter_Lib)(type Legacy)(uri C:/Users/mason/GitRepos/IoT_Domestic_Power_Meter/IoTPowerMeter/lib_sch/IoTPowerMeter.lib)(options "")(descr ""))
+  (lib (name UA78M33C)(type Legacy)(uri C:/Users/mason/GitRepos/IoT_Domestic_Power_Meter/IoTPowerMeter/lib_sch/UA78M33CDCYR/2020-05-03_18-13-31.lib)(options "")(descr ""))
+  (lib (name ParticlePhoton)(type Legacy)(uri C:/Users/mason/GitRepos/IoT_Domestic_Power_Meter/IoTPowerMeter/lib_sch/kicad-particle-master/particle-boards.lib)(options "")(descr ""))
+  (lib (name ATM90E26)(type Legacy)(uri C:/Users/mason/GitRepos/IoT_Domestic_Power_Meter/IoTPowerMeter/lib_sch/ATM90E26YUB/2020-05-04_05-43-16.lib)(options "")(descr ""))
+)

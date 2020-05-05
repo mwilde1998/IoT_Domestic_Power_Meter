@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VPP16-310
+D Transformer, single primary, dual secondary
+K transformer coil magnet
+F ~
+$ENDCMP
+#
+#End Doc Library
